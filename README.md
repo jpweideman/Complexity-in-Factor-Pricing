@@ -12,12 +12,6 @@ Munich, August 2024
 
 The paper investigates the impact of model complexity on factor pricing models within the stochastic discount factor (SDF) framework. It builds on the findings of Didisheim et al. (2024) and explores the behavior of expected returns under different model specifications and complexities. The repository includes the code for generating theoretical graphs used in the paper.
 
-## Requirements
-
-To run the scripts, the following Python packages are required:
-- `numpy`
-- `pandas`
-- `matplotlib`
 
 ## Results
 
